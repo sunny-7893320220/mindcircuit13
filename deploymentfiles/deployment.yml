@@ -20,7 +20,7 @@ spec:
       - name: mc-app
         image: sunny7893320220/ecomm
         ports:
-        - containerPort: 8080
+        - containerPort: 80
 
   
 
